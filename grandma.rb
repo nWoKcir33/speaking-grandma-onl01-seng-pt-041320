@@ -9,5 +9,3 @@ else phrase == phrase.upcase
 end
 
 end
-
-speak_to_grandma("I LOVE YOU GRANDMA!")
