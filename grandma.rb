@@ -8,5 +8,3 @@ if phrase == "I LOVE YOU GRANDMA!"
 else phrase == phrase.upcase
   return "NO, NOT SINCE 1938!"
 end
-
-speak_to_grandma("I LOVE YOU GRANDMA!")
